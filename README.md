@@ -1,5 +1,6 @@
-### Hi there 👋
 ![top banner](https://ibb.co/Gph28RM)
+### Hi there 👋
+
 <!--
 **Alexb6/Alexb6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
