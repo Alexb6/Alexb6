@@ -1,7 +1,7 @@
 ![top banner](https://i.ibb.co/Jth7GHp/Banner-Github-v02.jpg)
 ### Welcome, very nice to meet you!
 #### Hi I'm a JavaScript Developer.
-Currently working on a bilingual forum from scratch for a French-Vietnamese association of Pneumology in full JavaScript (React, Redux, Node & Express organized in API Rest, MySQL). It's done from start to finish, from the creation of the graphic charter to the front and back end development.
+Currently working on a bilingual forum from scratch for a French-Vietnamese association of Pneumology in full JavaScript (React, Redux, Node & Express organized in a Rest API, MySQL). It's done from start to finish, from the creation of the graphic charter to the front and back end development.
 
 <h5 align="left">Programming Skills:</h5>
 <p align="left">
