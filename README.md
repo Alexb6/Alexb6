@@ -2,7 +2,7 @@
 ### Welcome, very nice to meet you!
 #### I am a JavaScript Developer.
 
-<h4 align="left">Programming Skills:</h4>
+<h5 align="left">Programming Skills:</h5>
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -49,7 +49,7 @@
    </a>
 </p>
 
-<h4 align="left">Designing Tools:</h4>
+<h5 align="left">Designing Tools:</h5>
 <p align="left">
    <a href="https://www.photoshop.com/en" target="_blank"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
