@@ -1,7 +1,7 @@
-![top banner](https://i.ibb.co/MhDrC4k/Banner-Github-v02.jpg)
+![top banner](https://i.ibb.co/VwCVbp6/Banner-Github-v02.jpg)
 ### Welcome, very nice to meet you!
 #### Hi I'm Alex, a JavaScript Developer.
-Currently working on a bilingual forum from scratch for a French-Vietnamese association of Pneumology in full JavaScript (React, Redux, Node & Express organized in a Rest API, MySQL). It's done from start to finish, from the creation of the graphic charter to the front and back end development.
+Am currently working on a bilingual forum from scratch for a French-Vietnamese association of Pneumology in full JavaScript (React, Redux, Node & Express organized in a Rest API, MySQL). It's done from start to finish, from the creation of the graphic charter to the front and back end development.
 
 <h5 align="left">Programming Skills:</h5>
 <p align="left">
@@ -37,6 +37,8 @@ Currently working on a bilingual forum from scratch for a French-Vietnamese asso
    <a href="https://www.mysql.com/" target="_blank"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
          alt="mysql" width="40" height="40" /> </a>
+   <a href="https://sequelize.org/master/" target="_blank"> <img
+         src="https://svgshare.com/i/V1i.svg" alt="sequelize" width="40" height="40" /> </a>
    <a href="https://www.mongodb.com/" target="_blank"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
          alt="mongodb" width="40" height="40" /> </a>
