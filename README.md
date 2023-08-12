@@ -3,7 +3,7 @@
 #### Hi I'm Alex, a JavaScript Developer.
 Am currently working on a bilingual forum from scratch for a French-Vietnamese association of Pneumology in full JavaScript (React, Redux, Node & Express organized as a Rest API, Sequelize & MySQL). It's done from start to finish, from the creation of the graphic charter to the front and back end development.
 
-<h5 align="left">Programming Skills:</h5>
+<h5 align="left">Programming Skills and tools:</h5>
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
